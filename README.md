@@ -12,7 +12,7 @@ For an easy way to pass in the list of files, after entering the -f flag, enter 
 Select your files in Finder, and drag
 
 ```
-python -a "coolpic;coolertag" -f "/Users/indy/lostarkpics/henry.jpg /Users/indu/lostarkpics/leapoffaith.png"
+python xattr.py -a "coolpic;coolertag" -f "/Users/indy/lostarkpics/henry.jpg /Users/indu/lostarkpics/leapoffaith.png"
 ```
 
 ## Options
